@@ -1,0 +1,20 @@
+{
+  "blockId": "2uDWJfP2Rwg9VtmcK-G9m",
+  "name": "kkllff",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Digambaran/uuPackage.git",
+    "ssh": "git@github.com:Digambaran/uuPackage.git",
+    "branch": "block_kkllff"
+  },
+  "parentBlockIDs": [
+    "fhGa4T-kjtfCEQcln-uS0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
