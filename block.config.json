@@ -1,1 +1,21 @@
-{"name":"uuPackage","type":"package","blockId":"fhGa4T-kjtfCEQcln-uS0","source":{"https":null,"ssh":null,"branch":"block_uuPackage"},"parentBlockIDs":[],"isPublic":true,"supportedAppblockVersions":["1.0.0"],"repoType":"mono"}
+{
+  "name": "uuPackage",
+  "type": "package",
+  "blockId": "fhGa4T-kjtfCEQcln-uS0",
+  "source": {
+    "https": "https://github.com/Digambaran/uuPackage.git",
+    "ssh": "git@github.com:Digambaran/uuPackage.git",
+    "branch": "block_uuPackage"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "kkllff": {
+      "directory": "kkllff"
+    }
+  }
+}
