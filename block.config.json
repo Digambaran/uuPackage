@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "kkllff": {
-      "directory": "kkllff"
+      "directory": "kkllff",
+      "versionId": "pOJ3ouVcWsKkcf0_yhaYS",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "u0Cmx9zYZnXb4DcTfFSG8"
 }
